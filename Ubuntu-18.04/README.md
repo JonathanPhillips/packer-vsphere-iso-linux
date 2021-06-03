@@ -4,6 +4,6 @@ To create the template execute **packer build -var-file variables.json ubuntu18.
 
 **Credentials:**
 
-Username: kopicloud
+Username: ubuntu  
 
-Password: kopicloud
+Password: ubuntu
