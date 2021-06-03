@@ -26,7 +26,7 @@ Tested with **VMware ESX 6.7** | User: root | Password: server
 * Ubuntu-18.04/variables.json --> Ubuntu 18.04 Packer Variables JSON file
 * Ubuntu-18.04/preseed.cfg --> Ubuntu Preseeding file
 
-Tested with **VMware ESX 6.7** | User: kopicloud | Password: kopicloud
+Tested with **VMware ESX 6.7** | User: ubuntu | Password: ubuntu
 
 **Debian 10**
 
